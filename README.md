@@ -7,7 +7,7 @@ Minimax algorithm with Alpha beta pruning in Assigment 1 for Programming Paradig
 <details>
  <summary>Pure Functional Implementation</summary>
  <p>Found in GameTheory/GameTheory.fs</p>
- <i>![](Images/Pure.PNG)</i>
+ <image>![](Images/Pure.PNG)</image>
 </details>
 
 ### Pure Functional Implementation
