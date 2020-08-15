@@ -5,12 +5,16 @@
 
 ### Pure Functional Implementation
 
+
+
+
 ### Impure Functional Implementation
 
 ### Imperative Implementation
 
 ## Grades
 
+![](Images/AssessmentMarks.png)
 
 ## Authors
 
