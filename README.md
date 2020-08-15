@@ -4,13 +4,12 @@
 ## Minimax with Alpha beta pruning in various styles
 
 ### Pure Functional Implementation
-
-
-
-
+![](Images/Pure.PNG)
 ### Impure Functional Implementation
-
+![](Images/Impure.PNG)
 ### Imperative Implementation
+
+![](Images/Imperative.PNG)
 
 ## Grades
 
