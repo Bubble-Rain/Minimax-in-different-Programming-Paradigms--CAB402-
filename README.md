@@ -6,14 +6,16 @@ Minimax algorithm with Alpha beta pruning in Assigment 1 for Programming Paradig
 
 <details>
  <summary>Pure Functional Implementation</summary>
- <p>Found in GameTheory/GameTheory.fs</p>
+ <p>/nFound in GameTheory/GameTheory.fs</p>
  <img src="Images/Pure.PNG" >
 </details>
 
-### Pure Functional Implementation
-Found in GameTheory/GameTheory.fs
+<details>
+ <summary>Pure Functional Implementation</summary>
+ <p>/nFound in GameTheory/GameTheory.fs</p>
+ <img src="Images/Pure.PNG" >
+</details>
 
-![](Images/Pure.PNG)
 ### Impure Functional Implementation
 Found in FSharpTicTacToeModels/TicTacToeImpure.fs
 
