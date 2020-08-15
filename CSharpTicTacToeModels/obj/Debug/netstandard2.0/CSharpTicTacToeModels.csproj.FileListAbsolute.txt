@@ -1,0 +1,28 @@
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.deps.json
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csprojAssemblyReference.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CoreCompileInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.AssemblyInfoInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.AssemblyInfo.cs
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CopyComplete
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.deps.json
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\CSharpTicTacToeModels.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csprojAssemblyReference.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CoreCompileInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.AssemblyInfoInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.AssemblyInfo.cs
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.csproj.CopyComplete
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\CSharpTicTacToeModels\obj\Debug\netstandard2.0\CSharpTicTacToeModels.pdb

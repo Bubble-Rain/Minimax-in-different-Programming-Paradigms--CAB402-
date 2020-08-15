@@ -1,0 +1,16 @@
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.deps.json
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.fsprojAssemblyReference.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.AssemblyInfoInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.AssemblyInfo.fs
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.deps.json
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\bin\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.fsprojAssemblyReference.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.AssemblyInfoInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.AssemblyInfo.fs
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\TicTacToeModelInterfaces\obj\Debug\netstandard2.0\TicTacToeModelInterfaces.pdb

@@ -1,0 +1,22 @@
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\bin\Debug\netstandard2.0\GameTheory.deps.json
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\bin\Debug\netstandard2.0\GameTheory.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\bin\Debug\netstandard2.0\GameTheory.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsprojAssemblyReference.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfoInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfo.fs
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsproj.CopyComplete
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\obj\Debug\netstandard2.0\GameTheory.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\TicTacToe (1)\GameTheory\obj\Debug\netstandard2.0\GameTheory.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\bin\Debug\netstandard2.0\GameTheory.deps.json
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\bin\Debug\netstandard2.0\GameTheory.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\bin\Debug\netstandard2.0\GameTheory.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\bin\Debug\netstandard2.0\NodeCounter.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\bin\Debug\netstandard2.0\NodeCounter.pdb
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsprojAssemblyReference.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfoInputs.cache
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\obj\Debug\netstandard2.0\GameTheory.AssemblyInfo.fs
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\obj\Debug\netstandard2.0\GameTheory.fsproj.CopyComplete
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\obj\Debug\netstandard2.0\GameTheory.dll
+C:\Users\Jerald\Documents\CAB402\CAB402\n9747575\GameTheory\obj\Debug\netstandard2.0\GameTheory.pdb
