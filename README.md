@@ -6,12 +6,15 @@ Minimax algorithm with Alpha beta pruning in Assigment 1 for Programming Paradig
 
 ### Pure Functional Implementation
 Found in GameTheory/GameTheory.fs
+
 ![](Images/Pure.PNG)
 ### Impure Functional Implementation
 Found in FSharpTicTacToeModels/TicTacToeImpure.fs
+
 ![](Images/Impure.PNG)
 ### Imperative Implementation
 Found in CSharpTicTacToeModels/Model.cs
+
 ![](Images/Imperative.PNG)
 
 ## Grades
