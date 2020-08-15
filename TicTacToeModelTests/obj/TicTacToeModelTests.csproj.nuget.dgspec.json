@@ -1,0 +1,393 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\TicTacToeModelTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj",
+        "projectName": "CSharpTicTacToeModels",
+        "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj",
+        "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj"
+              },
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj",
+        "projectName": "FSharpTicTacToeModels",
+        "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj",
+        "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\GameTheory\\GameTheory.fsproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\GameTheory\\GameTheory.fsproj"
+              },
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\GameTheory\\GameTheory.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\GameTheory\\GameTheory.fsproj",
+        "projectName": "GameTheory",
+        "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\GameTheory\\GameTheory.fsproj",
+        "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\GameTheory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj",
+        "projectName": "NodeCounter",
+        "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj",
+        "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj",
+        "projectName": "TicTacToeModelInterfaces",
+        "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\TicTacToeModelInterfaces.fsproj",
+        "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelInterfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\TicTacToeModelTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\TicTacToeModelTests.csproj",
+        "projectName": "TicTacToeModelTests",
+        "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\TicTacToeModelTests.csproj",
+        "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj"
+              },
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj"
+              },
+              "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj": {
+                "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -6032,23 +6032,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jerald\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Happy Birthday\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\TicTacToeModelTests\\TicTacToeModelTests.csproj",
+      "projectUniqueName": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\TicTacToeModelTests.csproj",
       "projectName": "TicTacToeModelTests",
-      "projectPath": "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\TicTacToeModelTests\\TicTacToeModelTests.csproj",
-      "packagesPath": "C:\\Users\\Jerald\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\TicTacToeModelTests\\obj\\",
+      "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\TicTacToeModelTests.csproj",
+      "packagesPath": "C:\\Users\\Happy Birthday\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\TicTacToeModelTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jerald\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Happy Birthday\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6061,14 +6057,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj": {
-              "projectPath": "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj"
+            "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj": {
+              "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\CSharpTicTacToeModels\\CSharpTicTacToeModels.csproj"
             },
-            "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj": {
-              "projectPath": "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj"
+            "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj": {
+              "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\FSharpTicTacToeModels\\FSharpTicTacToeModels.fsproj"
             },
-            "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\NodeCounter\\NodeCounter.csproj": {
-              "projectPath": "C:\\Users\\Jerald\\Documents\\CAB402\\CAB402\\n9747575\\NodeCounter\\NodeCounter.csproj"
+            "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj": {
+              "projectPath": "C:\\Users\\Happy Birthday\\Documents\\GitHub\\Minimax-in-different-Programming-Paradigms-CAB402\\NodeCounter\\NodeCounter.csproj"
             }
           }
         }
@@ -6099,16 +6095,23 @@
             "version": "[15.9.0, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
