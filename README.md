@@ -3,11 +3,11 @@
  
 ## Minimax with Alpha beta pruning in various styles
 
-# Pure Functional Implementation
+### Pure Functional Implementation
 
-# Impure Functional Implementation
+### Impure Functional Implementation
 
-# Imperative Implementation
+### Imperative Implementation
 
 ## Grades
 
