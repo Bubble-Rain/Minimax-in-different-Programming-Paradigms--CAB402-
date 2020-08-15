@@ -14,7 +14,7 @@
 
 ## Grades
 
-![](Images/AssessmentMarks.png)
+![](Images/AssessmentMarks.PNG)
 
 ## Authors
 
